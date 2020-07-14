@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 #### ✨ I'm a UI/UX/Front End Engineer. I build web things. 
 #### 🍃 You can find me on [Instagram](https://www.instagram.com/sasha.codes/) and [Codepen](https://codepen.io/sashatran).
-#### ☕️  I'm currently learning Nuxt.js
