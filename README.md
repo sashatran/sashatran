@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a UI/UX/Front End Engineer. I build web things. I've been building Vue and Nuxt projects lately. 
+I'm a UI/UX/Front End Engineer. I build web things. Lately, I've been building Vue and Nuxt projects, learning how to integrate Express(NodeJS) into my projects and deploying it to Heroku. 
 
 My most recent project is this [blog](https://sashatran-blog.netlify.app/) made with Gridsome, Vue, GraphQL and NetlifyCMS.
 
