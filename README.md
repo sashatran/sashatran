@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a UI/UX/Front End Engineer. I build web things. I've been building Vue and Nuxt projects lately. My most recent project is this [blog](https://sashatran-blog.netlify.app/) made with Gridsome, Vue, GraphQL and NetlifyCMS.
+I'm a UI/UX/Front End Engineer. I build web things. I've been building Vue and Nuxt projects lately. 
+
+My most recent project is this [blog](https://sashatran-blog.netlify.app/) made with Gridsome, Vue, GraphQL and NetlifyCMS.
 
 You can also find me on [Instagram](https://www.instagram.com/sasha.codes/) and [Codepen](https://codepen.io/sashatran). 
