@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm a UI/UX/Front End Engineer. I build creative web things. Lately, I've been building Vue and Nuxt projects, learning how to integrate Express(NodeJS) into my projects and deploying it to Heroku. 
 
-📗 My most recent project is this [blog](https://sashatran-blog.netlify.app/) made with Gridsome, Vue, GraphQL and NetlifyCMS.
+📔 My most recent project is this [blog](https://sashatran-blog.netlify.app/) made with Gridsome, Vue, GraphQL and NetlifyCMS.
 
 ⭐️ You can also find me on [Instagram](https://www.instagram.com/sasha.codes/) and [Codepen](https://codepen.io/sashatran). 
