@@ -19,4 +19,4 @@ I'm a UI/UX/Front End Engineer. I build creative web things. Lately, I've been b
 
 📔 My most recent project is this [blog](https://sashatran-blog.netlify.app/) made with Gridsome, Vue, GraphQL and NetlifyCMS.
 
-⭐️ You can also find me on [Instagram](https://www.instagram.com/sasha.codes/) and [Codepen](https://codepen.io/sashatran). 
+⭐️ You can also find my work on [Instagram](https://www.instagram.com/sasha.codes/) and [Codepen](https://codepen.io/sashatran). 
