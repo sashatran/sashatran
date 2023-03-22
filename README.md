@@ -19,4 +19,4 @@ I'm a UI/UX/Front End Engineer. I build creative web things.
 
 ⚡ Lately, I've been working on for Web3 Vue/Nuxt, React/Next projects.
 
-⭐️ You can also find my work on [Codepen](https://codepen.io/sashatran) and my photography work on [Instagram](https://www.instagram.com/sasha.codes/)
+⭐️ You can also find my work on [Codepen](https://codepen.io/sashatran) 
